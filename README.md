@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/jaakkopasanen/AutoEq)
+
 # AutoEQ
 **TL;DR** If you are here just looking to make your headphones sound better, find your headphone model in
 [results](./results) folder's recommended headphones list
